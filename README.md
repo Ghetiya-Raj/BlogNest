@@ -74,5 +74,3 @@ Authors can create and manage blogs, while readers can explore and interact with
 - Multer (for image upload)  
 
 ---
-
-## 📁 Project Structure
